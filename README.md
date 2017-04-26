@@ -1,0 +1,2 @@
+# ChadLiResource
+ResourceMessage
